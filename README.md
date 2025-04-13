@@ -70,6 +70,6 @@ D. FAQ
 
 You can download the sample developer guide document from the link below:
 
-📄 **[Download 3.5G MCS DG.pdf](./3.5G%20MCS%20DG.pdf)**
+📄 **[Download 3.5G MCS DG.pdf](./Sample_3.5GMCSDG.pdf)**
 
 ---
